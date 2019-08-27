@@ -1,6 +1,6 @@
 class Dog
 end
 
-poppy = Dog.new
-koromaru = Dog.new
-king = Dog.new
+fido = Dog.new
+snoopy= Dog.new
+lassie = Dog.new
